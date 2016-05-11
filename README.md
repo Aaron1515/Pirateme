@@ -26,10 +26,16 @@ Or install it yourself as:
 To test if the gem is install,
 Pirateme.hello
 
-   '"Welcome to the coolest pirate gem!"'
+    "Welcome to the coolest pirate gem!"
+
+eg.
+Pirateme.translate("Hello there!")
+
+    "Ahoy there!"
 
 Pirateme::Fake.captian
-  # Return a name of a captian by random.
+
+    Return a name of a captian by random.
 
 ## Development
 
