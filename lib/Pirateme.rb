@@ -1,5 +1,5 @@
 require "Pirateme/version"
-require 'talk_like_a_pirate'
+
 module Pirateme
 
   def self.hello
