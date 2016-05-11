@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/Pirateme.svg)](https://badge.fury.io/rb/Pirateme)
+
 # Pirateme
 
 Welcome to the PirateMe gem.
