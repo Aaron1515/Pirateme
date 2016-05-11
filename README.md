@@ -37,6 +37,21 @@ Pirateme::Fake.captian
 
     Return a name of a captian by random.
 
+Pirateme::Fake.action
+
+    Return an action by random.
+
+Pirateme::Fake.phrase
+
+    Return a phrase by random.
+
+Pirateme::Fake.joke
+
+    Return a joke by random.
+
+
+
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
