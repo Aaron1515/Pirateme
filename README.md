@@ -23,7 +23,7 @@ Or install it yourself as:
     $ gem install Pirateme
 
 ## Usage
-To test if the gem is install,
+To test if the gem is install.
 Pirateme.hello
 
     "Welcome to the coolest pirate gem!"
