@@ -1,8 +1,10 @@
 # Pirateme
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/Pirateme`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to the PirateMe gem.
 
-TODO: Delete this and the text above, and describe your gem
+The gem will allow you to translate any string into priate talk.
+
+Also you can use it as a faker for names of pirate captians, some aren't even pirate captians, like Captian America.  But you'll get a vew kicks and laughs out of it.
 
 ## Installation
 
@@ -21,8 +23,13 @@ Or install it yourself as:
     $ gem install Pirateme
 
 ## Usage
+To test if the gem is install,
+Pirateme.hello
 
-TODO: Write usage instructions here
+  # "Welcome to the coolest pirate gem!"
+
+Pirateme::Fake.captian
+  # Return a name of a captian by random.
 
 ## Development
 
