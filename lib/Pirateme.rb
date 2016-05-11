@@ -45,9 +45,10 @@ module Pirateme
         "Why don't pirates take a bath before they walk the plank? They'll just wash up on shore later",
         "What's the smelliest part of a pirate ship? the poop deck",
         "What's the worse nightmare for a pirate on a blind date? a sunken chest with no booty"
-        ].sample
-
+      ].sample
+    end
   end
 end
-p Pirateme.translate("Hello there!")
-p Pirateme::Fake.captian
+# p Pirateme.translate("Hello there!")
+# p Pirateme::Fake.captian
+# p Pirateme::Fake.joke
