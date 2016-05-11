@@ -30,6 +30,10 @@ Pirateme.hello
 
     "Welcome to the coolest pirate gem!"
 
+eg.
+Pirateme.translate("Hello there!")
+
+    "Ahoy there!"
 
 Pirateme::Fake.captian
 
@@ -47,11 +51,6 @@ Pirateme::Fake.joke
 
     Return a joke by random.
 
-##This function isn't currently working at the moment. Please check back when it is completed
-eg.
-Pirateme.translate("Hello there!")
-
-    "Ahoy there!"
 
 
 

@@ -16,6 +16,7 @@ module Pirateme
 
   def self.piratize(arg)
 
+    # translator library
     translator = {
       "address" => "port o' call",
       "admin" => "helm",
@@ -191,7 +192,4 @@ module Pirateme
 
 end
 
-
-# p Pirateme.hello
-# p Pirateme.translate("we're all doom")
 
