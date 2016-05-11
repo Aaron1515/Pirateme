@@ -1,5 +1,7 @@
 require "Pirateme/version"
 
 module Pirateme
-  # Your code goes here...
+  def self.hello
+    "Welcome to the coolest pirate gem!"
+  end
 end
