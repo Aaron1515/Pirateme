@@ -6,9 +6,18 @@ module Pirateme
     "Welcome to the coolest pirate gem!"
   end
 
-  def self.translate(arg)
-    TalkLikeAPirate.translate(arg)
-  end
+  # def self.translate(arg)
+  #   arg.is_a?(String) ? translate(arg) : need_string
+  # end
+
+  #   # private ############################
+  # def need_string
+  #   "Needs to be in a string format"
+  # end
+
+  # def translate(sentence)
+  #   "testing"
+  # end
 
   module Fake
     def self.captian
@@ -47,8 +56,9 @@ module Pirateme
         "What's the worse nightmare for a pirate on a blind date? a sunken chest with no booty"
       ].sample
     end
-  end
+  end #end faker module
+
+
 end
-# p Pirateme.translate("Hello there!")
-# p Pirateme::Fake.captian
-# p Pirateme::Fake.joke
+p Pirateme.translate("Hello there!")
+
