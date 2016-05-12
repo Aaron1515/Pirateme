@@ -34,7 +34,6 @@ module Pirateme
       "boss" => "admiral",
       "bourbon" => "rum",
       "box" => "barrel",
-      "bring" => "bring",
       "business" => "company",
       "businesses" => "companies",
       "calling" => "callin'",
