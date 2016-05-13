@@ -42,7 +42,11 @@ Pirateme.translate("Hello there!")
 
 Pirateme::Fake.captian
 
-    Return a name of a captian by random.
+    Return a name of a pirate captian by random.
+
+Pirateme::Fake.pirate
+
+    Return a name of a pirate by random.
 
 Pirateme::Fake.action
 
