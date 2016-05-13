@@ -48,6 +48,10 @@ Pirateme::Fake.pirate
 
     Return a name of a pirate by random.
 
+Pirateme::Fake.crew
+
+    Return a name of a crew's name by random.
+
 Pirateme::Fake.action
 
     Return an action by random.

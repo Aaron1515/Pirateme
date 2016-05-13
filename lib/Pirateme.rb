@@ -155,16 +155,12 @@ module Pirateme
     end
 
     def self.pirate
-      ["Portgas D. Ace", "Roronoa Zoro" , "Nico Robin", "Tony Tony Chopper", "Bartolomew", "Will Turner", "Elizabeth Swann", "Hector Barbossa", "Cutler Beckett", "Angelica", "Bootstrap Bill turner"].sample
+      ["Portgas D. Ace", "Roronoa Zoro" , "Nico Robin", "Tony Tony Chopper", "Bartolomew", "Will Turner", "Elizabeth Swann", "Hector Barbossa", "Cutler Beckett", "Angelica", "Bootstrap Bill turner", "Joshamee Gibbs", "James Norrington", "Marty", "Jack the Moneky", "Philip Swift"].sample
     end
 
     def self.ship
       ["Merry", "Thousand Sunny", "Bachelor's Delight", "Royal Fortune", "Roebuck", "The Black Peral", "New York Revenge", "The Adventure Galley", "The CSS Alabama", "The Whydah", "The Flying Dragon", "The Revenge", "The Rose Pink", "The Fancy", "The Squirrel", "Flo", "The Kraken", "Davy Jone's Executiner", "The Bloody Shame", "Satan's Mermaid", "Black Charlatan", "Rogue Wave", "Night's Dirty Lightning", "Ghostly Seadog", "The Wicked Wench", "Privateer's Scream", "Queen Anne's Revenge", "Black Joke", "Charles", "Desire", "Fortune", "Little Ranger", "Black Pearl", "Wicked Wench", "Troubadour", "Dying Gull", "Impress", "Black Barnacle"].sample
     end
-
-    # def self.booty(digets=)
-
-    # end
 
     def self.attack
       ["stab", "jab", "kick", "heave ho", "scuttle"].sample
