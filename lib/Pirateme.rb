@@ -151,11 +151,11 @@ module Pirateme
 
   module Fake
     def self.captian
-      "Captian " + ["Morgan", "Jessamiah", "Morgan Adams", "America", "Henry Avery", "Tom Ayrton", "Barrett", "Edward Teach - Blackbeard", "White Beard", "Black Beard", "Drake", "Ralegh", "Roberts", "Cook", "Nelson", "Silver", "Kirk", "Magellen", "Columbus", "Hook", "Long John Silver", "Bully Hayes", "Walker D. Plank", "Blood", "Jack Sparrow", "Hector Barbossa", "Black Bart", "George Booth", "Nathaniel Butler", "Diablitio", "Edward England", "Edward Newgate", "Sir Henry Morgan", "John Nutt", "Red Beard", "Moneky D. Luffy", "Shanks", "Jack Sparrow", "Salazar"].sample
+      "Captian " + ["Morgan", "Jessamiah", "Morgan Adams", "America", "Henry Avery", "Tom Ayrton", "Barrett", "Edward Teach - Blackbeard", "White Beard", "Black Beard", "Drake", "Ralegh", "Roberts", "Cook", "Nelson", "Silver", "Kirk", "Magellen", "Columbus", "Hook", "Long John Silver", "Bully Hayes", "Walker D. Plank", "Blood", "Jack Sparrow", "Hector Barbossa", "Black Bart", "George Booth", "Nathaniel Butler", "Diablitio", "Edward England", "Edward Newgate", "Sir Henry Morgan", "John Nutt", "Red Beard", "Moneky D. Luffy", "Shanks", "Jack Sparrow", "Salazar", "Pittsburgh Pirates"].sample
     end
 
     def self.pirate
-      ["Portgas D. Ace", "Roronoa Zoro" , "Nico Robin", "Tony Tony Chopper", "Bartolomew", "Will Turner", "Elizabeth Swann", "Hector Barbossa", "Cutler Beckett", "Angelica", "Bootstrap Bill turner", "Joshamee Gibbs", "James Norrington", "Marty", "Jack the Moneky", "Philip Swift"].sample
+      ["Portgas D. Ace", "Roronoa Zoro" , "Nico Robin", "Tony Tony Chopper", "Bartolomew", "Will Turner", "Elizabeth Swann", "Hector Barbossa", "Cutler Beckett", "Angelica", "Bootstrap Bill turner", "Joshamee Gibbs", "James Norrington", "Marty", "Jack the Moneky", "Philip Swift", "Oakland Raiders", "Pirate Bay"].sample
     end
 
     def self.ship
