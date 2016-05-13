@@ -151,7 +151,15 @@ module Pirateme
 
   module Fake
     def self.captian
-      "Captian " + ["Morgan", "Portgas D. Ace", "Jessamiah", "Morgan Adams", "America", "Henry Avery", "Tom Ayrton", "Barrett", "Edward Teach - Blackbeard", "White Beard", "Black Beard", "Drake", "Ralegh", "Roberts", "Cook", "Nelson", "Silver", "Kirk", "Magellen", "Columbus", "Hook", "Long John Silver", "Bully Hayes", "Walker D. Plank", "Blood", "Jack Sparrow", "Hector Barbossa", "Black Bart", "George Booth", "Nathaniel Butler", "Diablitio", "Edward England", "Edward Newgate", "Sir Henry Morgan", "John Nutt", "Red Beard", ].sample
+      "Captian " + ["Morgan", "Jessamiah", "Morgan Adams", "America", "Henry Avery", "Tom Ayrton", "Barrett", "Edward Teach - Blackbeard", "White Beard", "Black Beard", "Drake", "Ralegh", "Roberts", "Cook", "Nelson", "Silver", "Kirk", "Magellen", "Columbus", "Hook", "Long John Silver", "Bully Hayes", "Walker D. Plank", "Blood", "Jack Sparrow", "Hector Barbossa", "Black Bart", "George Booth", "Nathaniel Butler", "Diablitio", "Edward England", "Edward Newgate", "Sir Henry Morgan", "John Nutt", "Red Beard", "Moneky D. Luffy", "Shanks", "Jack Sparrow", "Salazar", "Pittsburgh Pirates"].sample
+    end
+
+    def self.pirate
+      ["Portgas D. Ace", "Roronoa Zoro" , "Nico Robin", "Tony Tony Chopper", "Bartolomew", "Will Turner", "Elizabeth Swann", "Hector Barbossa", "Cutler Beckett", "Angelica", "Bootstrap Bill turner", "Joshamee Gibbs", "James Norrington", "Marty", "Jack the Moneky", "Philip Swift", "Oakland Raiders", "Pirate Bay"].sample
+    end
+
+    def self.ship
+      ["Merry", "Thousand Sunny", "Bachelor's Delight", "Royal Fortune", "Roebuck", "The Black Peral", "New York Revenge", "The Adventure Galley", "The CSS Alabama", "The Whydah", "The Flying Dragon", "The Revenge", "The Rose Pink", "The Fancy", "The Squirrel", "Flo", "The Kraken", "Davy Jone's Executiner", "The Bloody Shame", "Satan's Mermaid", "Black Charlatan", "Rogue Wave", "Night's Dirty Lightning", "Ghostly Seadog", "The Wicked Wench", "Privateer's Scream", "Queen Anne's Revenge", "Black Joke", "Charles", "Desire", "Fortune", "Little Ranger", "Black Pearl", "Wicked Wench", "Troubadour", "Dying Gull", "Impress", "Black Barnacle"].sample
     end
 
     def self.attack
