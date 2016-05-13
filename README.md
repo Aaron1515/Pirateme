@@ -10,19 +10,24 @@ Also you can use it as a faker for names of pirate captians, some aren't even pi
 
 ## Installation
 
-Add this line to your application's Gemfile:
 
-```ruby
-gem 'Pirateme'
-```
+#### Option 1 - Rails Application Installation
 
-And then execute:
+<code>Gemfile</code> file add:
 
-    $ bundle
+    gem 'Pirateme'
 
-Or install it yourself as:
+And then execute in command line:
 
-    $ gem install Pirateme
+    bundle install
+
+#### Option 2 - Ruby Installation
+
+Installing Pirateme in your computer
+
+Excute in your command line:
+
+    gem install Pirateme
 
 ## Usage
 To test if the gem is install.
@@ -51,7 +56,9 @@ Pirateme::Fake.joke
 
     Return a joke by random.
 
+Pirateme::Fake.bio
 
+    Return a Pirate's name and a quick bio by random.
 
 
 ## Development
