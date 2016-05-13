@@ -186,6 +186,11 @@ module Pirateme
         "What's the worse nightmare for a pirate on a blind date? a sunken chest with no booty"
       ].sample
     end
+
+    def self.bio
+    end
+
+
   end #end faker module
 
 
