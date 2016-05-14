@@ -210,6 +210,22 @@ module Pirateme
         ].sample
     end
 
+    def self.fact
+      [
+        "A pirate is a person who commits a crime while at sea. The crimes could be anything but usually involve robbery or violence. Arr!!",
+        "Although people generally associate traditional pirates as those that caused trouble and mayhem in and around the Caribbean in the 17th and 18th Centuries, drinking grog and rum and speaking with some kind of Cornish accent, pirates have existed and still exist wherever there is water, which is just about everywhere. For example, the Vikings were also pirates.",
+        "One of the most famous pirates is Blackbeard. His real name is Edward Teach, and he went around frightening people into giving him money and suchlike. Despite having a reputation of being a bit of a troublemaker, there is no record of him actually murdering any of his prisoners. However, he apparently walked around with lit fuses on his hat. He also had a peg leg due to losing one of legs through diabetes.",
+        "Another famous pirate is William Kidd, also known as Captain Kidd. Although there is doubt about whether he was a proper pirate, he was still hanged in 1701 for getting up to piratey antics. After his execution, his body was displayed in chains hanging above the River Thames for three years as a deterrent to other would-be pirates. Nice. Captain Kidd is said to have buried some of his treasure and thought that he may have been spared execution in return for revealing where his treasure may be located.",
+        "A favourite tipple of pirates was grog. Traditionally, grog was rum diluted with water or weak beer. It could be consumed cold or warm. To give flavour to this drink, sugar, lime juice or cinnamon would be added to the mixture.",
+        "The Jolly Roger, a flag featuring a skull and crossbones, or variations on the same theme (skeletons, death, and other fearsome imagery) is often associated with pirates. They were basically designed to frighten  potential victims to surrendering their loot without having to put up a fight.",
+        "Most pirates didn't actually use a Jolly Roger as their flag. Instead, they just used black flags.",
+        "Pirates feature in many forms of media. In literature, Treasure Island and Peter Pan use pirates as their inspiration. In video games, pirates inspire games such as Sid Meier's Pirates! and the Secret of Monkey Island and its sequels. There are also numerous pirate movies, including Hook and of course the Pirates of the Caribbean series of films. Ahoy me hearties!",
+        "Every year on 19th September, it is International Talk Like A Pirate Day, when it becomes perfectly acceptable to spend the day talking like a pirate.  If you want to do it all year round and you're on Facebook, you can change the language to Pirate in the account settings.",
+        "Pirates wore earrings because they thought that they improved their eyesight - not as fashion accessories. Garr!!!"
+        ].sample
+
+    end
+
   end #end faker module
 
 end
