@@ -223,13 +223,9 @@ module Pirateme
         "Every year on 19th September, it is International Talk Like A Pirate Day, when it becomes perfectly acceptable to spend the day talking like a pirate.  If you want to do it all year round and you're on Facebook, you can change the language to Pirate in the account settings.",
         "Pirates wore earrings because they thought that they improved their eyesight - not as fashion accessories. Garr!!!"
         ].sample
-
     end
 
   end #end faker module
 
 end
 
-
-
-p Pirateme::Fake.bio
