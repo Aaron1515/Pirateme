@@ -64,6 +64,10 @@ Pirateme::Fake.bio
 
     Return a Pirate's name and a quick bio by random.
 
+Pirateme::Fake.fact
+
+    Return a fact about pirate by random.
+
 
 ## Development
 
